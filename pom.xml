@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>be.jkin</groupId>
-	<artifactId>kudosusuariosrest</artifactId>
+	<artifactId>kardexservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kudosusuariosrest</name>
-	<description>Kudos Usuarios REST Service</description>
+	<name>kardexservice</name>
+	<description>Kardex REST Service</description>
 
 	<properties>
 		<java.version>1.8</java.version>
